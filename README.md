@@ -180,5 +180,5 @@ This project was created using Flowise, a no-code platform for building LangChai
 ### Setup Steps
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Premier-League-Players-Insights.git
-   cd Premier-League-Players-Insights
+   git clone https://github.com/yourusername/Premier-League-Players-Insights-Agent.git
+   cd Premier-League-Players-Insights-Agent
